@@ -1,6 +1,6 @@
 # Ex.No.-1.1-Design and Draft the given 2D Sketches in modelling software.
-# Name : Pragatheeshraaj D
-# Register No.: 212224230199
+## Name : Pragatheeshraaj D
+## Register No.: 212224230199
 
 ## AIM
 
@@ -49,3 +49,17 @@ To sketch the given drawing with dimensions using fusion 360 tool.
 
 ## RESULT
 Thus the given sketch is drawn and drafted using fusion 360 tool.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
